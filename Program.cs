@@ -4,7 +4,7 @@
 // Replace with your ChatGPT API key
 using ChatGPT;
 
-string apiKey = "Your API Key;
+string apiKey = "Your API Key";
 // Create a ChatGPTClient instance with the API key
 var chatGPTClient = new ChatGPTClient(apiKey);
 
